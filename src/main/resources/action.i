@@ -1,0 +1,10 @@
+<Action>
+NODE +
+NODE -
+ASSIGN 0
+NODE #
+ASSIGN 0
+ASSIGN 1
+LEAF num
+LEAF id
+</Action>
