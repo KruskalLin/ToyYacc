@@ -1,6 +1,9 @@
 # ToyYacc
-A toy front end of compiler
-- [X] lexical analyse
-- [X] syntactic analyse
-- [X] JAVA GRAMMAR
+A toy front end of compiler.
+
+## Features
+
+- [X] Lexical analyse
+- [X] Syntactic analyse
+- [X] Java Grammar
 - [X] Visualize
