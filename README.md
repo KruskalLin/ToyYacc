@@ -8,4 +8,4 @@ A toy front end of compiler.
 - [X] Java Grammar
 - [X] Visualize
 
-!(visualize)[visualization.png]
+![visualize](visualization.png)
