@@ -7,3 +7,5 @@ A toy front end of compiler.
 - [X] Syntactic analyse
 - [X] Java Grammar
 - [X] Visualize
+
+!(visualize)[visualization.png]
